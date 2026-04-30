@@ -21,7 +21,7 @@ async function carregarProdutos() {
             
             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
                 <div class="text-center">
-                    <a class="btn mt-auto" href="#" 
+                    <a class="btn mt-auto" href="item.html?id=${produto.id}" 
                        style="background-color: #B4C79F; color: white; border-radius: 25px; padding: 8px 20px;">
                        Ver detalhes
                     </a>
